@@ -1,4 +1,5 @@
 # LinkedIn Queens – CSP and Local Search Solvers
+## Collaborative Project
 
 This project implements and analyzes solvers for a Queens-like puzzle that we call **LinkedIn Queens**.
 
